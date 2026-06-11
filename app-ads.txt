@@ -1,0 +1,2 @@
+# app-ads.txt for SokSok Voca (com.soksokvoca) - AdMob
+google.com, pub-2552217172819688, DIRECT, f08c47fec0942fa0
